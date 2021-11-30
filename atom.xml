@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eg65536.github.io</id>
     <title>伊谢尔伦通讯社</title>
-    <updated>2021-11-30T15:04:32.785Z</updated>
+    <updated>2021-11-30T15:05:51.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eg65536.github.io"/>
     <link rel="self" href="https://eg65536.github.io/atom.xml"/>
@@ -10,62 +10,6 @@
     <logo>https://eg65536.github.io/images/avatar.png</logo>
     <icon>https://eg65536.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 伊谢尔伦通讯社</rights>
-    <entry>
-        <title type="html"><![CDATA[数分III 参考资料整合]]></title>
-        <id>https://eg65536.github.io/post/Calcul-3-resource/</id>
-        <link href="https://eg65536.github.io/post/Calcul-3-resource/">
-        </link>
-        <updated>2021-11-30T14:14:27.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="写在前面">写在前面</h2>
-<ul>
-<li>下面将以「教材-&gt;PPT-&gt;补充内容」为顺序简要介绍我在数分III学习过程中使用/浏览过的参考资料。数学分析为各校通识课，也是STEM的基本功，教材更是浩如烟海，网上各有评说，请自行查阅。</li>
-<li>主要介绍中文教材，英文教材及简评可参考<a href="http://www.math.ntu.edu.tw/students/courses/textbooks">台大数学系教材书评</a>。</li>
-<li>请读者仔细甄别选取，以免被多余噪音干扰了自身学习节奏。</li>
-<li>文中部分链接可能需要特殊网络环境。列表内课本均可于Z-lib/Libergen搜到。</li>
-<li>衷心希望能对读者有所裨益。</li>
-</ul>
-<h2 id="教材">教材</h2>
-<ol>
-<li><em>数学分析</em> 复旦 陈纪修</li>
-<li><em>数学分析习题课讲义</em> 复旦 谢惠民
-<ul>
-<li>下载：<a href="https://1lib.us/book/16481544/479c6d">上册</a>  <a href="https://1lib.us/book/16481730/c4bd78">下册</a> <a href="https://1lib.us/book/6111574/d7be00">答案1</a> <a href="https://1lib.us/book/17045375/c0ee06">答案2</a></li>
-</ul>
-</li>
-<li><em>微積分學</em> 成大 顏國勇
-<ul>
-<li>下载：<a href="https://www.math.ncku.edu.tw/~library/e-book/Calculus2015B.pdf">教材</a> <a href="https://www.math.ncku.edu.tw/~library/e-book/NewCalEx2.pdf">习题集</a></li>
-</ul>
-</li>
-</ol>
-<h2 id="ppt">PPT</h2>
-<ol>
-<li>科大slide <a href="http://staff.ustc.edu.cn/~rui/ppt/calculus2/ppt.html">在线浏览</a></li>
-</ol>
-<h2 id="补充内容">补充内容</h2>
-<ol>
-<li>数值最优化算法和理论
-<ul>
-<li>建议与教材对照阅读，有部分定理证明与一些实例。</li>
-<li><a href="https://www.icourse.club/uploads/files/78aa4d317ea68797be0a92f10712df7716c8c6dc.pdf">下载</a></li>
-</ul>
-</li>
-<li>北大 最优化教材
-<ul>
-<li><s>我校大二学生没什么道理看得懂，拿来填位置的</s> 可能有猛人能拿来参考吧。</li>
-<li><a href="https://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf">下载</a></li>
-</ul>
-</li>
-<li><em>advanced microeconomics theory</em> by Geoffrey A. Jehle and Philio J. Reny
-<ul>
-<li>补充内容2的主要参考资料。</li>
-<li>我认为补充内容2的很多内容都可以参照大一高等代数教材的第一单元，或者数分教材，如<em>Principles of Mathematical Analysis之类的。<s>但我学不会，所以就摆烂了</s></em></li>
-<li><a href="http://dsecoaching.com/pdf/Jehle%20_%20Reny%20.pdf">下载</a></li>
-</ul>
-</li>
-</ol>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[C++程序设计 参考资料整合]]></title>
         <id>https://eg65536.github.io/post/cpp-resource/</id>
@@ -126,11 +70,111 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[数分III 参考资料整合]]></title>
+        <id>https://eg65536.github.io/post/Calcul-3-resource/</id>
+        <link href="https://eg65536.github.io/post/Calcul-3-resource/">
+        </link>
+        <updated>2021-11-30T14:09:27.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="写在前面">写在前面</h2>
+<ul>
+<li>下面将以「教材-&gt;PPT-&gt;补充内容」为顺序简要介绍我在数分III学习过程中使用/浏览过的参考资料。数学分析为各校通识课，也是STEM的基本功，教材更是浩如烟海，网上各有评说，请自行查阅。</li>
+<li>主要介绍中文教材，英文教材及简评可参考<a href="http://www.math.ntu.edu.tw/students/courses/textbooks">台大数学系教材书评</a>。</li>
+<li>请读者仔细甄别选取，以免被多余噪音干扰了自身学习节奏。</li>
+<li>文中部分链接可能需要特殊网络环境。列表内课本均可于Z-lib/Libergen搜到。</li>
+<li>衷心希望能对读者有所裨益。</li>
+</ul>
+<h2 id="教材">教材</h2>
+<ol>
+<li><em>数学分析</em> 复旦 陈纪修</li>
+<li><em>数学分析习题课讲义</em> 复旦 谢惠民
+<ul>
+<li>下载：<a href="https://1lib.us/book/16481544/479c6d">上册</a>  <a href="https://1lib.us/book/16481730/c4bd78">下册</a> <a href="https://1lib.us/book/6111574/d7be00">答案1</a> <a href="https://1lib.us/book/17045375/c0ee06">答案2</a></li>
+</ul>
+</li>
+<li><em>微積分學</em> 成大 顏國勇
+<ul>
+<li>下载：<a href="https://www.math.ncku.edu.tw/~library/e-book/Calculus2015B.pdf">教材</a> <a href="https://www.math.ncku.edu.tw/~library/e-book/NewCalEx2.pdf">习题集</a></li>
+</ul>
+</li>
+</ol>
+<h2 id="ppt">PPT</h2>
+<ol>
+<li>科大slide <a href="http://staff.ustc.edu.cn/~rui/ppt/calculus2/ppt.html">在线浏览</a></li>
+</ol>
+<h2 id="补充内容">补充内容</h2>
+<ol>
+<li>数值最优化算法和理论
+<ul>
+<li>建议与教材对照阅读，有部分定理证明与一些实例。</li>
+<li><a href="https://www.icourse.club/uploads/files/78aa4d317ea68797be0a92f10712df7716c8c6dc.pdf">下载</a></li>
+</ul>
+</li>
+<li>北大 最优化教材
+<ul>
+<li><s>我校大二学生没什么道理看得懂，拿来填位置的</s> 可能有猛人能拿来参考吧。</li>
+<li><a href="https://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf">下载</a></li>
+</ul>
+</li>
+<li><em>advanced microeconomics theory</em> by Geoffrey A. Jehle and Philio J. Reny
+<ul>
+<li>补充内容2的主要参考资料。</li>
+<li>我认为补充内容2的很多内容都可以参照大一高等代数教材的第一单元，或者数分教材，如<em>Principles of Mathematical Analysis之类的。<s>但我学不会，所以就摆烂了</s></em></li>
+<li><a href="http://dsecoaching.com/pdf/Jehle%20_%20Reny%20.pdf">下载</a></li>
+</ul>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://eg65536.github.io/post/guan-yu/</id>
+        <link href="https://eg65536.github.io/post/guan-yu/">
+        </link>
+        <updated>2021-11-30T14:08:53.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>一个无趣的大学生想表达的、想分享的文字。</p>
+</blockquote>
+<blockquote>
+<p>经济学本科在读，文化水平非常一般。</p>
+</blockquote>
+<blockquote>
+<p>四体不勤，五谷不分，社交关系极为匮乏，生活作风相当腐朽，半个NEET。</p>
+</blockquote>
+<blockquote>
+<p>历史爱好者，日本动画爱好者，轻小说读者，V厨，电子游戏玩家。</p>
+</blockquote>
+<blockquote>
+<p>开博客的话，偶尔会写点书评、随想之类的……吧。</p>
+</blockquote>
+<blockquote>
+<p>唔，好想摸鱼……</p>
+</blockquote>
+<h2 id="教育经历">教育经历</h2>
+<ul>
+<li>2017.09-2020.06: Shanghai Jincai High School</li>
+<li>2020.09-:  Shanghai University of Finance and Economics
+<ul>
+<li>2020.09-: School of Economics</li>
+</ul>
+</li>
+</ul>
+<h2 id="外部链接">外部链接</h2>
+<ul>
+<li>B站@鸭子神0536</li>
+<li>邮箱：northstar65536@protonmail.com</li>
+<li>steamid：<a href="https://steamcommunity.com/profiles/76561198399795782/">yazishen0536</a></li>
+<li>PSN：</li>
+<li>Xbox：</li>
+<li></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[概率论与数理统计 参考资源整合]]></title>
         <id>https://eg65536.github.io/post/prob-static-resource/</id>
         <link href="https://eg65536.github.io/post/prob-static-resource/">
         </link>
-        <updated>2021-11-30T14:10:25.000Z</updated>
+        <updated>2021-11-30T14:00:25.000Z</updated>
         <content type="html"><![CDATA[<h2 id="写在前面">写在前面</h2>
 <ul>
 <li>下面将以「各校自编教材-&gt;课本-&gt;杂项资源」为顺序简要介绍我在概统学习过程中使用/浏览过的参考资料。此外也会列出一些各大高校通行的教材。</li>
@@ -208,50 +252,6 @@
 <li><a href="https://bar.cnki.net/bar/download/order?id=jBGETXBNdPImvx70aLAuJPYxPoFw%2bp%2bi0fIiSrcN6lVWCk%2bWdsdTIwBVR9aRT4z7wURBIovEZWsxpaJNu72RstRR%2bm%2fZ5QcK76oOxDrYoPctqddCdidyosdSaMNWur3ZJBjdlDrNnftoR5pdZPiFRNlKM4sfpT3nRHSqBOA4sms8GQBtE8Z8mK%2fNwS15YoSEYwdkpXPe3LO0zyUQHES8YA%3d%3d">依测度收敛与依范数收敛</a> <s>别问，问就是专门找了没啥用</s></li>
 <li><a href="https://www.math.utah.edu/~li/prob_exam.zip">犹他大学 试卷</a></li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://eg65536.github.io/post/guan-yu/</id>
-        <link href="https://eg65536.github.io/post/guan-yu/">
-        </link>
-        <updated>2021-11-30T14:08:53.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>一个无趣的大学生想表达的、想分享的文字。</p>
-</blockquote>
-<blockquote>
-<p>经济学本科在读，文化水平非常一般。</p>
-</blockquote>
-<blockquote>
-<p>四体不勤，五谷不分，社交关系极为匮乏，生活作风相当腐朽，半个NEET。</p>
-</blockquote>
-<blockquote>
-<p>历史爱好者，日本动画爱好者，轻小说读者，V厨，电子游戏玩家。</p>
-</blockquote>
-<blockquote>
-<p>开博客的话，偶尔会写点书评、随想之类的……吧。</p>
-</blockquote>
-<blockquote>
-<p>唔，好想摸鱼……</p>
-</blockquote>
-<h2 id="教育经历">教育经历</h2>
-<ul>
-<li>2017.09-2020.06: Shanghai Jincai High School</li>
-<li>2020.09-:  Shanghai University of Finance and Economics
-<ul>
-<li>2020.09-: School of Economics</li>
-</ul>
-</li>
-</ul>
-<h2 id="外部链接">外部链接</h2>
-<ul>
-<li>B站@鸭子神0536</li>
-<li>邮箱：northstar65536@protonmail.com</li>
-<li>steamid：<a href="https://steamcommunity.com/profiles/76561198399795782/">yazishen0536</a></li>
-<li>PSN：</li>
-<li>Xbox：</li>
-<li></li>
-</ul>
 ]]></content>
     </entry>
 </feed>
