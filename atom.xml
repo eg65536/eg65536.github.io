@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eg65536.github.io</id>
     <title>伊谢尔伦通讯社</title>
-    <updated>2021-11-30T14:35:34.690Z</updated>
+    <updated>2021-11-30T14:55:24.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eg65536.github.io"/>
     <link rel="self" href="https://eg65536.github.io/atom.xml"/>
@@ -247,9 +247,10 @@
 <ul>
 <li>B站@鸭子神0536</li>
 <li>邮箱：northstar65536@protonmail.com</li>
-<li>steamid：yazishen0536</li>
+<li>steamid：<a href="https://steamcommunity.com/profiles/76561198399795782/">yazishen0536</a></li>
 <li>PSN：</li>
 <li>Xbox：</li>
+<li></li>
 </ul>
 ]]></content>
     </entry>
