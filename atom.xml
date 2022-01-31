@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eg65536.github.io</id>
     <title>伊谢尔伦通讯社</title>
-    <updated>2022-01-31T03:01:12.409Z</updated>
+    <updated>2022-01-31T03:03:30.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eg65536.github.io"/>
     <link rel="self" href="https://eg65536.github.io/atom.xml"/>
@@ -57,7 +57,7 @@
 <p>​	一开始我尝试转网页版知乎的主要原因是知乎app的很多交互体验真是烂透了，再加上safari的网页快照与阅读模式确实非常好用。如果您有ipad上使用知乎的需求，我强烈推荐您使用safari在网页版浏览知乎。我用privacyinsight看到的知乎app联网行为那是相当的不好看……同理也适用于哔哩哔哩app。</p>
 <p>​	而在手机版我则是辗转找到了氢知乎（hydrogen），这是一个基于手机网页版知乎的第三方知乎app。主要的优点在于能保存答案，对于我这种时常关注我不应该关注的事件的读者来说，这非常重要——当然这也是chrome的网页快照功能不是很好用的关系（笑）。很遗憾的是，作者已经不再维护这一项目，网上也不是很好下载。出于对作者意愿的尊重，我无法给出安装包。感兴趣的朋友请自己在网上查找……实在找不到也可以问我要吧。</p>
 <p>​	多说一句，google play旧版哔哩哔哩手机app既没有会员购也没有那个一键上传视频按钮，真的清爽很多。</p>
-<h1 id="5-feedlyreederrsshubwerss">5. Feedly+Reeder+RssHub+WeRss</h1>
+<h1 id="5-rss订阅">5. Rss订阅</h1>
 <p>​	我从去年三月就在尝试使用<a href="https://feedly.com/">feedly</a> 提供的RSS订阅服务取代国内的一些资讯类app，并订阅网站/博客。总的来说，这一伴随着阵痛的过程在我这主要需要克服两个难题：</p>
 <ol>
 <li>微信公众号、知乎、微博、bilibili的Rss订阅实现方式。</li>
